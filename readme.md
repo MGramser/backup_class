@@ -1,4 +1,4 @@
-<?php 
+```php
 php code ->
 
 require 'your_path/backup_autoload.php';
@@ -14,4 +14,4 @@ $backupweb -> set_local(path, delete_old_days);						// (optional) use this if y
 
 $backupweb -> backup();												// execute
 //$backupweb -> debug();											// (optional) debug the process
-?>
+```
