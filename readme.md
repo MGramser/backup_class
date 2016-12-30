@@ -1,6 +1,6 @@
-```php
-php code ->
 
+php code ->
+```php
 require 'your_path/backup_autoload.php';
 
 $backupweb = new backupWeb;											// create new instance
